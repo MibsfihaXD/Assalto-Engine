@@ -19,6 +19,7 @@ The Friday Night Funkin' ~~Forever Engine~~ Assalto Engine is an engine solely b
 [AquaStrikr](https://daaquastrikr.newgrounds.com/) - Assistant Coder and Lean Lover.
 
 
+## Forever Engine: Legacy Credits
 [Yoshubs](https://github.com/Yoshubs) - made Forever Engine Legacy.
 
 [Pixloen](https://github.com/PixlJacket) - made a lot of the custom assets that forever engine uses.
