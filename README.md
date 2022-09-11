@@ -1,10 +1,10 @@
-2# Assalto Engine
-The Friday Night Funkin' ~~Forever Engine~~ Assalto Engine is an engine solely based on source code at the moment
+# Assalto Engine
+The Friday Night Funkin' ~~Forever Engine~~ Assalto Engine is an engine solely based on source code at the moment :)
 
 ----------------------------------------------
 
 ## FEATURES
-* All FE: Legacy's past Features
+* All Forever Engine's past Features
 * More coming soon!
 
 ## CREDITS:
