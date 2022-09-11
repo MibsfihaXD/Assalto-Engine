@@ -1,4 +1,4 @@
-# Assalto Engine
+2# Assalto Engine
 The Friday Night Funkin' ~~Forever Engine~~ Assalto Engine is an engine solely based on source code at the moment
 
 ----------------------------------------------
@@ -11,7 +11,7 @@ The Friday Night Funkin' ~~Forever Engine~~ Assalto Engine is an engine solely b
 
 [Mib'sfiha](https://twitter.com/Mibsfiha) - Main Coder, still learning.
 
-[AquaStrikr](https://daaquastrikr.newgrounds.com/) - Assistant Coder and Lean Lover.
+[SOULC0DE](https://twitter.com/AquaStrikr_) - Assistant Coder and Lean Lover.
 
 
 ## Forever Engine: Legacy Credits
